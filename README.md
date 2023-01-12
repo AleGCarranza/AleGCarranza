@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AleGCarranza/AleGCarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner de LinkedIn Minimalista Café  (1)](https://user-images.githubusercontent.com/109099016/212179904-ee4e6ab5-a1d8-4fbd-8dbc-369d283d7827.png)
